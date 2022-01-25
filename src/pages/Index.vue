@@ -276,10 +276,10 @@ setup () {
 
 <style>
   #imagen{
-    transition: transform .2s;
+   /* transition: transform .2s;*/
   }
   #imagen:hover {
-    transform: scale(1.27); 
+    /*transform: scale(1.27,1.27,1,27);*/ 
   }
   #borda{
     border-radius: 25px;
